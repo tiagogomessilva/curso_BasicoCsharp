@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\bin\Debug\netcoreapp3.1\Challenger14.exe
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\bin\Debug\netcoreapp3.1\Challenger14.deps.json
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\bin\Debug\netcoreapp3.1\Challenger14.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\bin\Debug\netcoreapp3.1\Challenger14.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\bin\Debug\netcoreapp3.1\Challenger14.dll
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\bin\Debug\netcoreapp3.1\Challenger14.pdb
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\obj\Debug\netcoreapp3.1\Challenger14.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\obj\Debug\netcoreapp3.1\Challenger14.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\obj\Debug\netcoreapp3.1\Challenger14.dll
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\obj\Debug\netcoreapp3.1\Challenger14.pdb
+C:\Users\Tiago Gomes\source\repos\Challenger14\Challenger14\obj\Debug\netcoreapp3.1\Challenger14.csprojAssemblyReference.cache

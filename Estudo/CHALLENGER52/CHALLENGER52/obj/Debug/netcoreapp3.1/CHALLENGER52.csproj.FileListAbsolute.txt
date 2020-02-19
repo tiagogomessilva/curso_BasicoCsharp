@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\bin\Debug\netcoreapp3.1\CHALLENGER52.exe
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\bin\Debug\netcoreapp3.1\CHALLENGER52.deps.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\bin\Debug\netcoreapp3.1\CHALLENGER52.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\bin\Debug\netcoreapp3.1\CHALLENGER52.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\bin\Debug\netcoreapp3.1\CHALLENGER52.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\bin\Debug\netcoreapp3.1\CHALLENGER52.pdb
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\obj\Debug\netcoreapp3.1\CHALLENGER52.csprojAssemblyReference.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\obj\Debug\netcoreapp3.1\CHALLENGER52.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\obj\Debug\netcoreapp3.1\CHALLENGER52.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\obj\Debug\netcoreapp3.1\CHALLENGER52.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER52\CHALLENGER52\obj\Debug\netcoreapp3.1\CHALLENGER52.pdb

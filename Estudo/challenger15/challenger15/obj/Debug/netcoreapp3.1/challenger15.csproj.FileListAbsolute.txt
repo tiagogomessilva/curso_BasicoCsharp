@@ -1,0 +1,10 @@
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\bin\Debug\netcoreapp3.1\challenger15.exe
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\bin\Debug\netcoreapp3.1\challenger15.deps.json
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\bin\Debug\netcoreapp3.1\challenger15.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\bin\Debug\netcoreapp3.1\challenger15.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\bin\Debug\netcoreapp3.1\challenger15.dll
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\bin\Debug\netcoreapp3.1\challenger15.pdb
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\obj\Debug\netcoreapp3.1\challenger15.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\obj\Debug\netcoreapp3.1\challenger15.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\obj\Debug\netcoreapp3.1\challenger15.dll
+C:\Users\Tiago Gomes\source\repos\challenger15\challenger15\obj\Debug\netcoreapp3.1\challenger15.pdb

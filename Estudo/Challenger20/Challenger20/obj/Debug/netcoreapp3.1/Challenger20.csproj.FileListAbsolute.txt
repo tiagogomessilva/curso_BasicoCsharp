@@ -1,0 +1,10 @@
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\bin\Debug\netcoreapp3.1\Challenger20.exe
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\bin\Debug\netcoreapp3.1\Challenger20.deps.json
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\bin\Debug\netcoreapp3.1\Challenger20.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\bin\Debug\netcoreapp3.1\Challenger20.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\bin\Debug\netcoreapp3.1\Challenger20.dll
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\bin\Debug\netcoreapp3.1\Challenger20.pdb
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\obj\Debug\netcoreapp3.1\Challenger20.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\obj\Debug\netcoreapp3.1\Challenger20.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\obj\Debug\netcoreapp3.1\Challenger20.dll
+C:\Users\Tiago Gomes\source\repos\Challenger20\Challenger20\obj\Debug\netcoreapp3.1\Challenger20.pdb

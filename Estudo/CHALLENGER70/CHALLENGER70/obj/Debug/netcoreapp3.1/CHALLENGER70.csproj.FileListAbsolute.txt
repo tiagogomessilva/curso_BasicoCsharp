@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\bin\Debug\netcoreapp3.1\CHALLENGER70.exe
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\bin\Debug\netcoreapp3.1\CHALLENGER70.deps.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\bin\Debug\netcoreapp3.1\CHALLENGER70.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\bin\Debug\netcoreapp3.1\CHALLENGER70.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\bin\Debug\netcoreapp3.1\CHALLENGER70.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\bin\Debug\netcoreapp3.1\CHALLENGER70.pdb
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\obj\Debug\netcoreapp3.1\CHALLENGER70.csprojAssemblyReference.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\obj\Debug\netcoreapp3.1\CHALLENGER70.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\obj\Debug\netcoreapp3.1\CHALLENGER70.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\obj\Debug\netcoreapp3.1\CHALLENGER70.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER70\CHALLENGER70\obj\Debug\netcoreapp3.1\CHALLENGER70.pdb

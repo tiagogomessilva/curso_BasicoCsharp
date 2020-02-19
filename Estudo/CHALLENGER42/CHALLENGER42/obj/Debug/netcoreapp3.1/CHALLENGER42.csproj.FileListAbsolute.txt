@@ -1,0 +1,10 @@
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\bin\Debug\netcoreapp3.1\CHALLENGER42.exe
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\bin\Debug\netcoreapp3.1\CHALLENGER42.deps.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\bin\Debug\netcoreapp3.1\CHALLENGER42.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\bin\Debug\netcoreapp3.1\CHALLENGER42.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\bin\Debug\netcoreapp3.1\CHALLENGER42.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\bin\Debug\netcoreapp3.1\CHALLENGER42.pdb
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\obj\Debug\netcoreapp3.1\CHALLENGER42.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\obj\Debug\netcoreapp3.1\CHALLENGER42.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\obj\Debug\netcoreapp3.1\CHALLENGER42.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER42\CHALLENGER42\obj\Debug\netcoreapp3.1\CHALLENGER42.pdb

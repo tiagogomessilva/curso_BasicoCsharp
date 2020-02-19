@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\bin\Debug\netcoreapp3.1\CHALLENGER10.exe
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\bin\Debug\netcoreapp3.1\CHALLENGER10.deps.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\bin\Debug\netcoreapp3.1\CHALLENGER10.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\bin\Debug\netcoreapp3.1\CHALLENGER10.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\bin\Debug\netcoreapp3.1\CHALLENGER10.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\bin\Debug\netcoreapp3.1\CHALLENGER10.pdb
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\obj\Debug\netcoreapp3.1\CHALLENGER10.csprojAssemblyReference.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\obj\Debug\netcoreapp3.1\CHALLENGER10.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\obj\Debug\netcoreapp3.1\CHALLENGER10.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\obj\Debug\netcoreapp3.1\CHALLENGER10.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER10\CHALLENGER10\obj\Debug\netcoreapp3.1\CHALLENGER10.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\bin\Debug\netcoreapp3.1\Challenger27.exe
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\bin\Debug\netcoreapp3.1\Challenger27.deps.json
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\bin\Debug\netcoreapp3.1\Challenger27.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\bin\Debug\netcoreapp3.1\Challenger27.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\bin\Debug\netcoreapp3.1\Challenger27.dll
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\bin\Debug\netcoreapp3.1\Challenger27.pdb
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\obj\Debug\netcoreapp3.1\Challenger27.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\obj\Debug\netcoreapp3.1\Challenger27.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\obj\Debug\netcoreapp3.1\Challenger27.dll
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\obj\Debug\netcoreapp3.1\Challenger27.pdb
+C:\Users\Tiago Gomes\source\repos\Challenger27\Challenger27\obj\Debug\netcoreapp3.1\Challenger27.csprojAssemblyReference.cache

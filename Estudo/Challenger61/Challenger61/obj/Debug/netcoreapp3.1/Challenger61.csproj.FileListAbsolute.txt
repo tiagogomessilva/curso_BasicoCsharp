@@ -1,0 +1,10 @@
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\bin\Debug\netcoreapp3.1\Challenger61.exe
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\bin\Debug\netcoreapp3.1\Challenger61.deps.json
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\bin\Debug\netcoreapp3.1\Challenger61.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\bin\Debug\netcoreapp3.1\Challenger61.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\bin\Debug\netcoreapp3.1\Challenger61.dll
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\bin\Debug\netcoreapp3.1\Challenger61.pdb
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\obj\Debug\netcoreapp3.1\Challenger61.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\obj\Debug\netcoreapp3.1\Challenger61.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\obj\Debug\netcoreapp3.1\Challenger61.dll
+C:\Users\Tiago Gomes\source\repos\Challenger61\Challenger61\obj\Debug\netcoreapp3.1\Challenger61.pdb

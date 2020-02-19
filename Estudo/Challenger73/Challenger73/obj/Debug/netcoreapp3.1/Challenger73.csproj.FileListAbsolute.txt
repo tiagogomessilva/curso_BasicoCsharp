@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\bin\Debug\netcoreapp3.1\Challenger73.exe
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\bin\Debug\netcoreapp3.1\Challenger73.deps.json
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\bin\Debug\netcoreapp3.1\Challenger73.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\bin\Debug\netcoreapp3.1\Challenger73.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\bin\Debug\netcoreapp3.1\Challenger73.dll
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\bin\Debug\netcoreapp3.1\Challenger73.pdb
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\obj\Debug\netcoreapp3.1\Challenger73.csprojAssemblyReference.cache
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\obj\Debug\netcoreapp3.1\Challenger73.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\obj\Debug\netcoreapp3.1\Challenger73.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\obj\Debug\netcoreapp3.1\Challenger73.dll
+C:\Users\Tiago Gomes\source\repos\Challenger73\Challenger73\obj\Debug\netcoreapp3.1\Challenger73.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\obj\Debug\netcoreapp3.1\Challenger18.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\obj\Debug\netcoreapp3.1\Challenger18.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\bin\Debug\netcoreapp3.1\Challenger18.exe
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\bin\Debug\netcoreapp3.1\Challenger18.deps.json
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\bin\Debug\netcoreapp3.1\Challenger18.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\bin\Debug\netcoreapp3.1\Challenger18.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\bin\Debug\netcoreapp3.1\Challenger18.dll
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\bin\Debug\netcoreapp3.1\Challenger18.pdb
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\obj\Debug\netcoreapp3.1\Challenger18.dll
+C:\Users\Tiago Gomes\source\repos\Challenger18\Challenger18\obj\Debug\netcoreapp3.1\Challenger18.pdb

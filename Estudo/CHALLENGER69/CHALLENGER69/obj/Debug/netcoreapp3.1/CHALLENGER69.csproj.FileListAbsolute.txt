@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\bin\Debug\netcoreapp3.1\CHALLENGER69.exe
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\bin\Debug\netcoreapp3.1\CHALLENGER69.deps.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\bin\Debug\netcoreapp3.1\CHALLENGER69.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\bin\Debug\netcoreapp3.1\CHALLENGER69.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\bin\Debug\netcoreapp3.1\CHALLENGER69.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\bin\Debug\netcoreapp3.1\CHALLENGER69.pdb
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\obj\Debug\netcoreapp3.1\CHALLENGER69.csprojAssemblyReference.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\obj\Debug\netcoreapp3.1\CHALLENGER69.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\obj\Debug\netcoreapp3.1\CHALLENGER69.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\obj\Debug\netcoreapp3.1\CHALLENGER69.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER69\CHALLENGER69\obj\Debug\netcoreapp3.1\CHALLENGER69.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\bin\Debug\netcoreapp3.1\Cahllenger16.exe
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\bin\Debug\netcoreapp3.1\Cahllenger16.deps.json
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\bin\Debug\netcoreapp3.1\Cahllenger16.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\bin\Debug\netcoreapp3.1\Cahllenger16.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\bin\Debug\netcoreapp3.1\Cahllenger16.dll
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\bin\Debug\netcoreapp3.1\Cahllenger16.pdb
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\obj\Debug\netcoreapp3.1\Cahllenger16.csprojAssemblyReference.cache
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\obj\Debug\netcoreapp3.1\Cahllenger16.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\obj\Debug\netcoreapp3.1\Cahllenger16.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\obj\Debug\netcoreapp3.1\Cahllenger16.dll
+C:\Users\Tiago Gomes\source\repos\Cahllenger16\Cahllenger16\obj\Debug\netcoreapp3.1\Cahllenger16.pdb

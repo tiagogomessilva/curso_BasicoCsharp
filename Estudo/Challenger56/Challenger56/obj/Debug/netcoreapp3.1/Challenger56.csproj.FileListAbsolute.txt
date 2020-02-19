@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\obj\Debug\netcoreapp3.1\Challenger56.csprojAssemblyReference.cache
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\obj\Debug\netcoreapp3.1\Challenger56.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\obj\Debug\netcoreapp3.1\Challenger56.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\bin\Debug\netcoreapp3.1\Challenger56.exe
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\bin\Debug\netcoreapp3.1\Challenger56.deps.json
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\bin\Debug\netcoreapp3.1\Challenger56.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\bin\Debug\netcoreapp3.1\Challenger56.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\bin\Debug\netcoreapp3.1\Challenger56.dll
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\bin\Debug\netcoreapp3.1\Challenger56.pdb
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\obj\Debug\netcoreapp3.1\Challenger56.dll
+C:\Users\Tiago Gomes\source\repos\Challenger56\Challenger56\obj\Debug\netcoreapp3.1\Challenger56.pdb

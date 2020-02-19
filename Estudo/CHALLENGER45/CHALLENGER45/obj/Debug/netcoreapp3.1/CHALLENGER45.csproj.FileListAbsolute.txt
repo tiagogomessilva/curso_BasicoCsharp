@@ -1,0 +1,10 @@
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\bin\Debug\netcoreapp3.1\CHALLENGER45.exe
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\bin\Debug\netcoreapp3.1\CHALLENGER45.deps.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\bin\Debug\netcoreapp3.1\CHALLENGER45.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\bin\Debug\netcoreapp3.1\CHALLENGER45.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\bin\Debug\netcoreapp3.1\CHALLENGER45.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\bin\Debug\netcoreapp3.1\CHALLENGER45.pdb
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\obj\Debug\netcoreapp3.1\CHALLENGER45.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\obj\Debug\netcoreapp3.1\CHALLENGER45.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\obj\Debug\netcoreapp3.1\CHALLENGER45.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER45\CHALLENGER45\obj\Debug\netcoreapp3.1\CHALLENGER45.pdb

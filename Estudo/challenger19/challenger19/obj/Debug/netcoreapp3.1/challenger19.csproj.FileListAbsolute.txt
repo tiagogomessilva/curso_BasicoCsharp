@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\bin\Debug\netcoreapp3.1\challenger19.exe
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\bin\Debug\netcoreapp3.1\challenger19.deps.json
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\bin\Debug\netcoreapp3.1\challenger19.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\bin\Debug\netcoreapp3.1\challenger19.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\bin\Debug\netcoreapp3.1\challenger19.dll
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\bin\Debug\netcoreapp3.1\challenger19.pdb
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\obj\Debug\netcoreapp3.1\challenger19.csprojAssemblyReference.cache
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\obj\Debug\netcoreapp3.1\challenger19.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\obj\Debug\netcoreapp3.1\challenger19.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\obj\Debug\netcoreapp3.1\challenger19.dll
+C:\Users\Tiago Gomes\source\repos\challenger19\challenger19\obj\Debug\netcoreapp3.1\challenger19.pdb

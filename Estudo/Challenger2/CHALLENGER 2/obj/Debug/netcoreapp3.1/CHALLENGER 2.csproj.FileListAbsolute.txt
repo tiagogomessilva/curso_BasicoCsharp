@@ -1,0 +1,10 @@
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\bin\Debug\netcoreapp3.1\CHALLENGER 2.exe
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\bin\Debug\netcoreapp3.1\CHALLENGER 2.deps.json
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\bin\Debug\netcoreapp3.1\CHALLENGER 2.runtimeconfig.json
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\bin\Debug\netcoreapp3.1\CHALLENGER 2.runtimeconfig.dev.json
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\bin\Debug\netcoreapp3.1\CHALLENGER 2.dll
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\bin\Debug\netcoreapp3.1\CHALLENGER 2.pdb
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\obj\Debug\netcoreapp3.1\CHALLENGER 2.AssemblyInfoInputs.cache
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\obj\Debug\netcoreapp3.1\CHALLENGER 2.AssemblyInfo.cs
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\obj\Debug\netcoreapp3.1\CHALLENGER 2.dll
+C:\VSCODE_LABS_HTK\Challenger Estrutura Sequencial\CHALLENGER 2\CHALLENGER 2\obj\Debug\netcoreapp3.1\CHALLENGER 2.pdb

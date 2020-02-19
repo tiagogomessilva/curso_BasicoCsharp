@@ -1,0 +1,11 @@
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\bin\Debug\netcoreapp3.1\CHALLENGER54.exe
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\bin\Debug\netcoreapp3.1\CHALLENGER54.deps.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\bin\Debug\netcoreapp3.1\CHALLENGER54.runtimeconfig.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\bin\Debug\netcoreapp3.1\CHALLENGER54.runtimeconfig.dev.json
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\bin\Debug\netcoreapp3.1\CHALLENGER54.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\bin\Debug\netcoreapp3.1\CHALLENGER54.pdb
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\obj\Debug\netcoreapp3.1\CHALLENGER54.csprojAssemblyReference.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\obj\Debug\netcoreapp3.1\CHALLENGER54.AssemblyInfoInputs.cache
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\obj\Debug\netcoreapp3.1\CHALLENGER54.AssemblyInfo.cs
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\obj\Debug\netcoreapp3.1\CHALLENGER54.dll
+C:\Users\Tiago Gomes\source\repos\CHALLENGER54\CHALLENGER54\obj\Debug\netcoreapp3.1\CHALLENGER54.pdb

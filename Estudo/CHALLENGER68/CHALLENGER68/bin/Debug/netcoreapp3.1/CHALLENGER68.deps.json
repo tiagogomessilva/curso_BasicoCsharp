@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CHALLENGER68/1.0.0": {
+        "runtime": {
+          "CHALLENGER68.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CHALLENGER68/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
